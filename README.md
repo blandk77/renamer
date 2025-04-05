@@ -1,126 +1,141 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Banner">
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝗗𝗜𝗚𝗜𝗧𝗔𝗟+𝗥𝗘𝗡𝗔𝗠𝗘+𝗕𝗢𝗧!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗗𝗜𝗚𝗜𝗧𝗔𝗟+𝗕𝗢𝗧𝗭!;𝗜+𝗔𝗠+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟+𝗧𝗚+𝗥𝗘𝗡𝗔𝗠𝗘+𝗕𝗢𝗧!)</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝗕𝗨𝗟𝗠𝗔+𝗥𝗘𝗡𝗔𝗠𝗘+𝗕𝗢𝗧!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗕𝗨𝗟𝗠𝗔+𝗕𝗢𝗧𝗭!;𝗜+𝗔𝗠+𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟+𝗧𝗚+𝗥𝗘𝗡𝗔𝗠𝗘+𝗕𝗢𝗧!" alt="Typing SVG">
+</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/b746aadfe59959eb76f59.jpg" alt="RKN RENAME BOT V3">
+  <img src="https://telegra.ph/file/b746aadfe59959eb76f59.jpg" alt="Bot Logo">
 </p>
 
 <p align="center">
-
-![Fork](https://img.shields.io/github/forks/DigitalBotz/Digital-Rename-Bot?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/DigitalBotz/Digital-Rename-Bot?color=%23&style=for-the-badge)
-![License](https://img.shields.io/github/license/DigitalBotz/Digital-Rename-Bot?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/DigitalBotz/Digital-Rename-Bot?style=for-the-badge)
-
+  <img src="https://img.shields.io/github/forks/MythicMosaic/4GB-Renamer-bot-With-metadata-?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/MythicMosaic/4GB-Renamer-bot-With-metadata-?color=%23&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/MythicMosaic/4GB-Renamer-bot-With-metadata-?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/MythicMosaic/4GB-Renamer-bot-With-metadata-?style=for-the-badge">
 </p>
 
+---
 
-### Sᴀᴍᴩʟᴇ Bᴏᴛ (Official Digital Rename Bot)
+## ⚙️ Deploy Instructions
 
-* [Rkn_RenameBot](http://t.me/Rkn_RenameBot)
-* [Digital_Rename_Bot](http://t.me/Digital_Rename_Bot)
-
-
-## Deploy Me 🥀
-
-<details><summary>📌 Deploy to Koyeb </summary>
+<details><summary>Deploy to Koyeb</summary>
   
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/RknDeveloper/Digital-Rename-Bot&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[WEBHOOK]=True&env[ADMIN]&env[DB_URL]&env[DB_NAME]=Rkn-Developer&env[FORCE_SUB]&env[START_PIC]&env[LOG_CHANNEL]=You%20Dont%20Need%20LogChannel%20To%20Remove%20This%20Variable&run_command=python%20bot.py&branch=main&name=rkn-rename) 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/MythicMosaic/4GB-Renamer-bot-With-metadata-&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[WEBHOOK]=True&env[ADMIN]&env[DB_URL]&env[DB_NAME]=BulmaDB&env[FORCE_SUB]&env[START_PIC]&env[LOG_CHANNEL]=YourLogChannel&run_command=python%20bot.py&branch=main&name=bulma-renamer)
 </details>
 
-<details><summary>📌 Deploy to Render </summary>
+<details><summary>Deploy to Render</summary>
   
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/DigitalBotz/Digital-Rename-Bot)
-
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/MythicMosaic/4GB-Renamer-bot-With-metadata-)
 </details>
 
-<details><summary>📌 Deploy To Railway </summary>
-<a href="https://graph.org/file/fabd75cd5043d2cfdc13d.jpg"><img src="https://railway.app/button.svg" alt="Deploy"></a>
+<details><summary>Deploy to Railway</summary>
+  
+[![Deploy to Railway](https://railway.app/button.svg)](https://railway.app)
 </details>
 
-<details><summary>📌 Deploy to Heroku </summary>
-
-<a href="https://heroku.com/deploy?template=https://github.com/DigitalBotz/Digital-Rename-Bot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"></p></a>
+<details><summary>Deploy to Heroku</summary>
+  
+[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/MythicMosaic/4GB-Renamer-bot-With-metadata-)
 </details>
 
-## Rᴇǫᴜɪʀᴇᴅ Cᴏɴғɪɢs
+---
 
-* `BOT_TOKEN`  - Get Bot Token From @BotFather
-* `API_ID` - From my.telegram.org
-* `API_HASH` - From my.telegram.org
-* `ADMIN` - AUTH Or Bot Controllers Id's Multiple Id Use Space To Split 
-* `DB_URL`  - Mongo Database URL From https://cloud.mongodb.com
-* `DB_NAME`  - Your Database Name From Mongodb.
-* `FORCE_SUB` - Your Force Sub Channel Username Without @
-* `LOG_CHANNEL` - Bot Logs Sending Channel. If You Don't Need This To Remove This Variable In Your Server
-* `STRING_SESSION` - Your Tg Premium Account String Session Required. `[Note :- If you remove the string session, 4GB files doesn't works on the bot.]`
+## 🔐 Required Configs
 
-## 🥰 Features
+| Variable         | Description                                                   |
+| ---------------- | ------------------------------------------------------------- |
+| `BOT_TOKEN`       | Get from @BotFather                                           |
+| `API_ID`          | From [my.telegram.org](https://my.telegram.org)              |
+| `API_HASH`        | From [my.telegram.org](https://my.telegram.org)              |
+| `ADMIN`           | Telegram User ID(s), use space to separate multiple IDs      |
+| `DB_URL`          | MongoDB connection URI                                       |
+| `DB_NAME`         | Database name in MongoDB                                     |
+| `FORCE_SUB`       | Channel username (without @) for force subscription          |
+| `LOG_CHANNEL`     | Channel ID for logging (optional)                            |
+| `STRING_SESSION`  | Required for premium uploads (over 2GB)                      |
 
-* Renames very fast .
-* Permanent Thumbnail support.
-* Force join for the user for use.
-* Supports Broadcasts.
-* Custom File Name Support...[Prefix_&_Suffix]
-* Set custom caption.
-* Has a custom Start-up pic.
-* Force subscribe available.
-* Supports ulimited renaming at a time.
-* Custom Metadata Support.
-* Admin Command Available.
-* premium subscription available.
-* premium trial available.
-* handle ban/unban members using command.
-* Deploy to Koyeb + Heroku + Railway + Render.
-* Developer Service 24x7. 🔥
+---
 
+## ✨ Features
 
-## Botfather Commands
-```
-start - 𝖈ʜᴇᴄᴋ 𝖎 𝖆ᴍ ʟɪᴠᴇ.
-plans - ᴜᴘɢʀᴀᴅᴇ ᴛᴏ ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ.
-myplan - ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ ʜᴇʀᴇ.
-view_thumb - 𝖙ᴏ 𝖘ᴇᴇ 𝖞ᴏᴜʀ 𝖈ᴜ𝖘ᴛᴏᴍ 𝖙ʜᴜᴍʙɴᴀɪʟ !!
-del_thumb - 𝖙ᴏ 𝖉ᴇʟᴇᴛᴇ 𝖞ᴏᴜʀ 𝖈ᴜ𝖘ᴛᴏᴍ 𝖙ʜᴜᴍʙɴᴀɪʟ !!
-set_caption - Sᴇᴛ A Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ !!
-see_caption - Sᴇᴇ Yᴏᴜʀ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ !!
-del_caption - Dᴇʟᴇᴛᴇ Cᴜsᴛᴏᴍ Cᴀᴘᴛɪᴏɴ !!
-metadata - Tᴏ Sᴇᴛ & Cʜᴀɴɢᴇ ʏᴏᴜʀ ᴍᴇᴛᴀᴅᴀᴛᴀ ᴄᴏᴅᴇ
-set_prefix - Tᴏ Sᴇᴛ Yᴏᴜʀ Pʀᴇғɪx !!
-see_prefix - Tᴏ Sᴇᴇ Yᴏᴜʀ Pʀᴇғɪx !!
-del_prefix - Dᴇʟᴇᴛᴇ Yᴏᴜʀ Pʀᴇғɪx !!
-set_suffix - Tᴏ Sᴇᴛ Yᴏᴜʀ Sᴜғғɪx !!
-see_suffix - Tᴏ Sᴇᴇ Yᴏᴜʀ Sᴜғғɪx !!
-del_suffix - Dᴇʟᴇᴛᴇ Yᴏᴜʀ Sᴜғғɪx !!
-restart - ᴛᴏ ʀᴇsᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ ᴀɴᴅ sᴇɴᴅ ᴍᴇssᴀɢᴇ ᴀʟʟ ᴅʙ ᴜsᴇʀs (Aᴅᴍɪɴ Oɴʟʏ)
-addpremium - ᴀᴅᴅ ᴘʀᴇᴍɪᴜᴍ (Aᴅᴍɪɴ Oɴʟʏ)
-remove_premium - ʀᴇᴍᴏᴠᴇ ᴘʀᴇᴍɪᴜᴍ (Aᴅᴍɪɴ Oɴʟʏ)
-ban - ban members using command (admin only)
-unban - unban members using command (admin only)
-banned_users - check bot all ban users using command (admin only)
-logs - ᴄʜᴇᴄᴋ ʙᴏᴛ ʟᴏɢs (Aᴅᴍɪɴ Oɴʟʏ)
-status - Cʜᴇᴄᴋ Bᴏᴛ Sᴛᴀᴛᴜs (Aᴅᴍɪɴ Oɴʟʏ)
-broadcast - Sᴇɴᴅ Mᴇssᴀɢᴇ Tᴏ Aʟʟ Usᴇʀs (Aᴅᴍɪɴ Oɴʟʏ)
-```
+- Fast file renaming
+- Permanent thumbnail support
+- Force join system
+- Broadcast to all users
+- Custom file name (prefix & suffix)
+- Custom caption support
+- Metadata editor
+- Premium membership system
+- Ban/unban system
+- Admin dashboard features
+- Multi-platform deploy
+- 24/7 uptime and smooth UX
 
-## Note:
+---
 
-- Please, Just Fork The Repo And Edit As Per Your Needs. # Don't Remove My Credit.
-- ᴅᴏ ɴᴏᴛ ʀᴇᴍᴏᴠᴇ ᴄʀᴇᴅɪᴛs ɢɪᴠᴇɴ ɪɴ ᴛʜɪs ʀᴇᴘᴏ.
-- Importing this repo instead of forking is strictly prohibited, Kindly fork and edit as your wish. Must Give Credits for developer(s)
-- If you find any bugs or errors, [report](https://t.me/DigitalBotz_Support) it
+## 📦 Botfather Commands
 
-## ❣️ Special Thanks 👍
+/start – Let’s get this party started! (Check if the bot is alive and kicking)
 
-- Thanks To TEAM-PYRO-BOTZ For His Awesome [PYRO-RENAME-BOT](https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT.git)
-- Thanks To [RknDeveloper](https://github.com/RknDeveloper) who have edited and modified this repo as now it is. (It's me 😂)
-- Thanks To [JayMahakal](https://github.com/JayMahakal98) who have edited and modified this repo as now it is.
-- Thanks To Rkn Developer Teams ✅ (Edit & New Feature Added)
-- Special Repo Owner Thanks To Digital Botz 🥲
+/plans – Wanna go premium? Peek at all the available plans!
 
-## Last Updated
-- `03-02-2024 08:45:30 PM`
+/myplan – Curious about your status? I’ll show you your current premium level.
+
+/view_thumb – View the thumbnail you’ve got set. Is it cute or what?
+
+/del_thumb – Not vibing with that thumb? Boom – deleted!
+
+/set_caption – Add your personal touch to every file with a custom caption.
+
+/see_caption – Let’s take a look at your current caption.
+
+/del_caption – Out with the old! Say goodbye to that caption.
+
+/metadata – Change the inner magic of your file – edit the metadata like a pro.
+
+/set_prefix – Add a stylish prefix to your file name.
+
+/see_prefix – Wanna see what prefix you’re rockin’ right now?
+
+/del_prefix – Clean slate – remove the prefix like a boss.
+
+/set_suffix – Add that cherry on top with a suffix!
+
+/see_suffix – Take a peek at the suffix you’ve set.
+
+/del_suffix – No more suffix? Say no more – gone!
+
+/restart – Need a refresh? This command is admin-only. Handle with care!
+
+/addpremium – Grant premium to a user. (Admin power required!)
+
+/remove_premium – Revoke that premium pass. (Admins only)
+
+/ban – Time to send someone to the shadow realm. (Admin only)
+
+/unban – Bring someone back from exile. (Admin only)
+
+/banned_users – Curious who’s on the blacklist? Check it out.
+
+/logs – Admins only! Peek into the bot’s activity.
+
+/status – Want a health check? See what’s happening inside the bot.
+
+/broadcast – Got an announcement? Spread the word like a true queen! (Admin only)
+
+---
+
+## 📂 Source Code
+
+> Full source code is available here:  
+**[GitHub Repo - Bulma Renamer Bot](https://github.com/MythicMosaic/4GB-Renamer-bot-With-metadata-)**
+
+---
+
+## ©️ Credits
+
+- Built with love by **Bulma Botz**
+- UI/UX inspired by top Telegram bots
