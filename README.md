@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/b746aadfe59959eb76f59.jpg" alt="Bot Logo">
+  <img src="https://files.catbox.moe/j012lo.jpg" alt="Bot Logo">
 </p>
 
 <p align="center">
