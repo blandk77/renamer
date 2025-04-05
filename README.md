@@ -8,6 +8,7 @@
 
 <p align="center">
   <img src="https://files.catbox.moe/j012lo.jpg" alt="Bot Logo">
+  <img align="middle" alt="count" src="https://count.getloli.com/get/@:otterai?theme=rule34">
 </p>
 
 <p align="center">
