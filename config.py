@@ -1,14 +1,4 @@
-#Apache License 2.0
-
-#Copyright (c) 2022 @AniHorizon
-
-#Telegram Link : https://t.me/AniHorizon
-
-#Repo Link : https://github.com/MythicMosaic/4GB-Renamer-bot-With-metadata-
-
-#License Link : https://github.com/MythicMosaic/4GB-Renamer-bot-With-metadata-/tree/main/LICENSE
-
-import re, os, time id_pattern = re.compile(r'^.\d+$')
+import re, os, time 
 
 class Config(object): 
   
