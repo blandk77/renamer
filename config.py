@@ -47,7 +47,7 @@ class Config(object):
 
 class rkn(object):
     # Part of text configuration
-    START_TXT = """<b><blockquote>ʜᴇʏ !! {user.mention}
+    START_TXT = """<b><blockquote>ʜᴇʏ !! (user.mention)
 
 ɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀғᴜʟ ғɪʟᴇ ʀᴇɴᴀᴍᴇʀ ʙᴏᴛ~  
 ɪ ᴄᴀɴ ʀᴇɴᴀᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏs, ᴍᴏᴠɪᴇs, ᴀɴɪᴍᴇs, ᴏʀ ᴀɴʏ ғɪʟᴇs ʏᴏᴜ sᴇɴᴅ~
