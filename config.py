@@ -69,14 +69,13 @@ class rkn(object):
 ᴊᴜsᴛ sᴇɴᴅ ᴀɴʏ ғɪʟᴇ ᴀɴᴅ ᴘɪᴄᴋ ᴀ ɴᴇᴡ ɴᴀᴍᴇ ғᴏʀ ɪᴛ!</blockquote></b>"""
 # -*- coding: utf-8 -*
 ABOUT_TXT = """<b><blockquote>
-╭───────────────⍟
 ├➤ ᴏᴡɴᴇʀ : <a href='t.me/Momo_Ayase_bot'>ᴛʜɪs ᴘᴇʀsᴏɴ</a>
 ├➤ ʟɪʙʀᴀʀy : <a href=https://github.com/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a>
 ├➤ ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>ᴘʏᴛʜᴏɴ 3</a>
 ├➤ ᴍʏ ᴜᴘᴅᴀᴛᴇs : <a href=https://t.me/AniHorizon>AniHorizon</a>
 ├➤ ᴘᴀɪᴅ ʙᴏᴛ : <a href=https://t.me/Tharun_stryker>ʀ ᴇ ᴏ ɴ</a>
 ├➤ ᴅᴇᴠʟᴏᴘᴇʀ : <a href=https://t.me/Momo_Ayase_bot>🇸 🇹 🇷 🇾 🇰 🇪 🇷 </a>
-╰───────────────⍟</blockquote></b>"""
+</blockquote></b>"""
 
     HELP_TXT = """
 <b>•></b> /start Tʜᴇ Bᴏᴛ.
