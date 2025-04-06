@@ -68,7 +68,7 @@ class rkn(object):
 
 ᴊᴜsᴛ sᴇɴᴅ ᴀɴʏ ғɪʟᴇ ᴀɴᴅ ᴘɪᴄᴋ ᴀ ɴᴇᴡ ɴᴀᴍᴇ ғᴏʀ ɪᴛ!</blockquote></b>"""
 # -*- coding: utf-8 -*-
-    ABOUT_TXT = """<b>╭───────────⍟
+    ABOUT_TXT = """<b>╭───────────
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
 ├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : {}
 ├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : {}
@@ -76,7 +76,7 @@ class rkn(object):
 ├✏️ Lᴀɴɢᴜᴀɢᴇ: {}
 ├💾 Dᴀᴛᴀ Bᴀꜱᴇ: {}
 ├📊 ᴠᴇʀsɪᴏɴ: <a href=https://github.com/MythicMosaic/4GB-Renamer-bot-With-metadata->{}</a></b>     
-╰───────────────⍟ """
+╰─────────────── """
 
     HELP_TXT = """
 <b>•></b> /start Tʜᴇ Bᴏᴛ.
