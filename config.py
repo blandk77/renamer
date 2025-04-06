@@ -16,9 +16,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Telegram Link : https://t.me/AniHorizon 
+#Telegram Link : https://t.me/AniHorizon 
 #Repo Link : https://github.com/MythicMosaic/4GB-Renamer-bot-With-metadata-
-License Link : https://github.com/MythicMosaic/4GB-Renamer-bot-With-metadata-/tree/main/LICENSE
+#License Link : https://github.com/MythicMosaic/4GB-Renamer-bot-With-metadata-/tree/main/LICENSE
 """
 
 import re, os, time
