@@ -68,7 +68,7 @@ class rkn(object):
 
 ᴊᴜsᴛ sᴇɴᴅ ᴀɴʏ ғɪʟᴇ ᴀɴᴅ ᴘɪᴄᴋ ᴀ ɴᴇᴡ ɴᴀᴍᴇ ғᴏʀ ɪᴛ!</blockquote></b>"""
 # -*- coding: utf-8 -*
-ABOUT_TXT = """<b><blockquote>━━━━━━━━━━━━━━━━━━━
+ABOUT_TXT = """<b><blockquote> ━━━━━━━━━━━━━━━━━━━
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
 ├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : {}
 ├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : {}
