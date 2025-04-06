@@ -45,7 +45,7 @@ class Config(object):
 
 class rkn(object):
     # part of text configuration
-    START_TXT = """<b><blockquote>ʜᴇʏ !! {mention}
+    START_TXT ="""<b><blockquote>ʜᴇʏ !! {mention}
 
 ɪ ᴀᴍ ᴀ ᴘᴏᴡᴇʀғᴜʟ ғɪʟᴇ ʀᴇɴᴀᴍᴇʀ ʙᴏᴛ~  
 ɪ ᴄᴀɴ ʀᴇɴᴀᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏs, ᴍᴏᴠɪᴇs, ᴀɴɪᴍᴇs, ᴏʀ ᴀɴʏ ғɪʟᴇs ʏᴏᴜ sᴇɴᴅ~
